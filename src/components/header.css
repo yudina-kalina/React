@@ -1,0 +1,9 @@
+.block1 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  /* border: 1px solid blue; */
+  font: 1.5em Montserrat, cursive;
+  margin: 5px;
+  background-color: hsla(0, 3%, 93%, 0.445);
+  color: black;
+}
